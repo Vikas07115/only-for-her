@@ -46,7 +46,7 @@ export default function HomePage() {
           delay: 1,
         }}
         className="fixed bottom-4 right-4 text-sm text-white/40 pointer-events-none z-50 font-light">
-        Created By Vikas Mehta
+        Created By Chetanya Gupta
       </motion.div>
     </main>
   )
